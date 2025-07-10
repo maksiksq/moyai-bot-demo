@@ -17,6 +17,11 @@
     @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap');
 
     :global {
+        * {
+            padding: 0;
+            margin: 0;
+        }
+
         html, body {
             overflow: hidden;
             color: white;
