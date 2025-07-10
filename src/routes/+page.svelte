@@ -2,7 +2,7 @@
 </script>
 
 <main>
-<h1>Here have a link to the bot:<br>
+<h1>Here have a link to invite the bot:<br>
     <a href="https://discord.com/oauth2/authorize?client_id=1392818641359212667&permissions=277025393664&integration_type=0&scope=bot+applications.commands">
         click me
     </a>
